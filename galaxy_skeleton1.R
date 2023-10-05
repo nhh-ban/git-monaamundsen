@@ -1,7 +1,7 @@
 
 # Skeleton file 1 for Assignment 1 in BAN400. 
 # -------------------------------------------
-
+#test
 # Comments below describes briefly a set of steps that solves Problem 1.
 
 # Read the entire data file into memory using the readLines()-function. Use the
